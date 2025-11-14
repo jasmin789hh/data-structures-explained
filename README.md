@@ -1,2 +1,17 @@
-# data-structures-explained
-Beginner-friendly examples of common data structures implemented in Python. Includes stacks, queues, linked lists, trees, and graphs with clear explanations for students.
+# Data Structures Explained
+
+A beginner-friendly repository demonstrating common data structures in Python.
+Created by **Diwakr Reddy**, Computer Science Teacher at Sacred Heart School, Kalyan.
+
+## Included Structures
+- Stack
+- Queue
+- Linked List
+- Binary Tree
+- Graph (Basic)
+
+Each structure includes:
+- Clear implementation
+- Comments for learning
+- Example usage
+
